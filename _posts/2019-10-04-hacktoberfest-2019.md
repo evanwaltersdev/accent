@@ -14,3 +14,7 @@ After some discussion, we decided we would incorperate the project into the Hexo
 
 
 That's enough for today, I'll keep you posted when the new system launches.
+
+
+
+Happy Hacking!
