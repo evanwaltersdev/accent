@@ -14,4 +14,8 @@ But Hacktoberfest thinks otherwise.
 
 I'm sorry to everyone who contributed, who now has to go off to correct a whitespace in a readme, we are better then that. Hacktoberfest doesn't understand that new users don't know how to maybe - code, or create a "High Quality Contribution". 
 
-By removing these "Beginner Repos", Hacktoberfest has simply caused an influx of new users, going off to other peoples repos and annoying them.
+By removing these "Beginner Repos", Hacktoberfest has simply caused an influx of new users, going off to other peoples repos and annoying them, by submiting spam PR's.
+
+Anyway, enough ranting from me:
+
+Thanks everyone for the fun 2 years and the 200+ pullrequests I have had to merge.
